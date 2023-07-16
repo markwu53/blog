@@ -35,7 +35,7 @@ $\displaystyle =  \Pi_j (\sum_i x_{ij})^{\alpha_j}$
 $\displaystyle = \Pi_j \sum_{(\ast\ast)} \frac{\alpha_j!}{\Pi_i \beta_{ij}!} \Pi_i x_{ij}^{\beta_{ij}}$ 
 -- by scalar formula
 
-$\displaystyle = \sum_{(\ast\ast\ast)}\frac{\Pi_j\alpha_j!}{\Pi_{ij}\beta_{ij}!} \Pi_{ij}x_{ij}^{\beta_{ij}} $ 
+$\displaystyle = \sum_{(\ast\ast\ast)}\frac{\Pi_j\alpha_j!}{\Pi_{ij}\beta_{ij}!} \Pi_{ij}x_{ij}^{\beta_{ij}}$ 
 -- switching product and summation
 
 $\displaystyle = \sum_{(\ast\ast\ast)} \frac{\alpha!}{\Pi_i\beta_i!}\Pi_i x_i^{\beta_i}$
