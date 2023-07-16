@@ -1,9 +1,5 @@
 Let $x$ be a vector in $\mathbb{R}^n$. Let $\alpha$ be an integer vector, that is, a vector of $\mathbb{N}_0^n$. Define $x^\alpha = x_1^{\alpha_1}\cdot x_2^{\alpha_2}\cdots x_n^{\alpha_n}$. Define $\alpha! = \alpha_1!\cdot\alpha_2!\cdots\alpha_n!$.
 
-$$
-\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
-$$
-
 Let $x_1,x_2,...,x_k\in \mathbb{R}^n$. Then
 
 $$
