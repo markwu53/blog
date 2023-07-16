@@ -28,7 +28,7 @@ Let $I=\{1,\cdots,k\}$ and $J=\{1,\cdots,n \}$. Let $i\in I, j\in J$ be the runn
 $\displaystyle (\sum x_i)^\alpha$
 
 $\displaystyle = \Pi_j (\sum_i x_i)_j^{\alpha_j}$ 
--- by multi-index defintion}
+-- by multi-index defintion
 
 $\displaystyle =  \Pi_j (\sum_i x_{ij})^{\alpha_j}$
 
